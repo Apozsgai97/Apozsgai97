@@ -10,3 +10,19 @@ Hi, I’m Adrienn Pozsgai! I’m a Full-Stack JavaScript Developer based in Stoc
 - [AAC board](https://github.com/Apozsgai97/aac-board) - An Augmentative and Alternative Communication (AAC) board designed for individuals with communication needs.
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adrienn-pozsgai-4594232a8/) or check out my [personal website](https://adriennpozsgai.me/).
+## 🛠️ Tools I Use
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30" />
+<img src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="sqlite" width="30" height="30" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="sqlite" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="30" height="30"/>
+</p>
