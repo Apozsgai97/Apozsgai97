@@ -5,8 +5,8 @@ Hi, I’m Adrienn Pozsgai! I’m a Full-Stack JavaScript Developer based in Stoc
 - :speech_balloon: Ask me about **Next.js**, **React**, and **web accessibility**.
 - :mailbox: How to reach me: [apozsgai97@gmail.com](apozsgai97@gmail.com)
 ## :computer: Some of my projects
-- :memo: [Talent app](https://talents-v2.salt.dev/) - An introduction to automating web tasks using Python and Selenium.
-- :book: [Includio](https://github.com/Apozsgai97/includio) - A guide to best practices for developing scalable and maintainable web applications.
-- :spiral_note_pad: [AAC board](https://github.com/Apozsgai97/aac-board) - Exploring the power of data visualization using Python libraries.
+- [Talent app](https://talents-v2.salt.dev/) - An introduction to automating web tasks using Python and Selenium.
+- [Includio](https://github.com/Apozsgai97/includio) - A guide to best practices for developing scalable and maintainable web applications.
+- [AAC board](https://github.com/Apozsgai97/aac-board) - Exploring the power of data visualization using Python libraries.
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adrienn-pozsgai-4594232a8/) or check out my [personal website](https://adriennpozsgai.me/).
