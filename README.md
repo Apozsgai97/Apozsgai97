@@ -1,6 +1,6 @@
 ## About Me :smile:
 Hi, I’m Adrienn Pozsgai! I’m a Full-Stack JavaScript Developer based in Stockholm, Sweden. I love building accessible and user-friendly applications that make a difference. Before diving into tech, I worked in special education, which gave me a lot of experience working with people, solving problems creatively, and staying flexible in different situations. I enjoy learning new things, whether it’s about technology, teamwork, or just finding better ways to do things.
-- :seedling: I’m currently exploring **COBOL** and **Assistive Technology**.
+- :seedling: I’m currently exploring **Python** and **Angular**.
 - :handshake: I’m looking to collaborate on **innovative web applications** and **make the web more accessible** .
 - :speech_balloon: Ask me about **Next.js**, **React**, and **web accessibility**.
 - :mailbox: How to reach me: [apozsgai97@gmail.com](apozsgai97@gmail.com)
@@ -24,5 +24,5 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/adrienn-p
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="sqlite" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>
-<img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="30" height="30"/>
+<img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="nextjs" width="30" height="30"/>
 </p>
